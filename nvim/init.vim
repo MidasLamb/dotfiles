@@ -1,1 +1,7 @@
 set hidden
+
+" Configure vim-plug
+call plug#begin('~/.nvim/plugged')
+
+call plug#end()
+
