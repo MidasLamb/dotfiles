@@ -1,5 +1,9 @@
-set hidden
 let mapleader = " "
+
+set hidden
+set signcolumn=yes
+set number relativenumber
+
 
 " PLUGINS
 " Configure vim-plug
