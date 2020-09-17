@@ -1,4 +1,5 @@
 set hidden
+let mapleader = " "
 
 " PLUGINS
 " Configure vim-plug
@@ -9,7 +10,7 @@ Plug 'morhetz/gruvbox'
 call plug#end()
 
 
-nnoremap <silent> <Space><Space> :bprevious<CR>
+nnoremap <silent> <Leader><Leader> :bprevious<CR>
 
 " VISUAL
 colorscheme gruvbox
