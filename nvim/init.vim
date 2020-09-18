@@ -19,4 +19,5 @@ nnoremap <silent> <Leader><Leader> :bprevious<CR>
 " VISUAL
 colorscheme gruvbox
 set background=dark
+highlight clear SignColumn 
 
