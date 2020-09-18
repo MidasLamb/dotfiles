@@ -1,3 +1,5 @@
+syntax on
+
 let mapleader = " "
 
 set hidden
